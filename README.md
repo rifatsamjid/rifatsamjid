@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rifat</h1>
+<!-- <h3 align="center">A passionate Frontend Developer from Bangladesh</h3> -->
 
-<!--
-**rifatsamjid/rifatsamjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-Here are some ideas to get you started:
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;React+Lover;Learning+Backend+Step+by+Step" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<h2>🚀 About Me</h2>
+
+<!--- about --->
+
+- 👋 Hi, I’m **[@rifatsamjid](#)**
+- 🖥️ I’m currently working with **HTML, CSS, Tailwind CSS, JavaScript, and React** on the frontend.
+- 🗄️ On the backend, I use **Node.js, Express.js, and MongoDB** to build simple full-stack projects.
+- 🔥 I’m learning **Firebase Authentication, JWT, and API integration** to level up my skills.
+- 💬 Ask me about **Frontend Development, React Components, or MERN basics**.
+- 🎨 I love designing clean UI using **Figma + Tailwind CSS**.
+- 📚 Currently exploring **Full-Stack development and improving my problem-solving**.
+- 📫 Reach me anytime at **rifattamim74328@gmail.com**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rifatsamjid&label=Profile%20Views&color=0e75b6&style=flat" alt="rifatsamjid" />
+</p>
+
+<h2>🌐 Connect With Me</h2>
+
+<p>
+<a href="https://linkedin.com/in/rifat" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/share/174FGdSFM7/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/rifat_samjid_tamim/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" />
+</a>
+</p>
+
+
+<h2>📊 GitHub Stats</h2>
+
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rifatsamjid&show_icons=true&theme=dracula&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatsamjid&layout=compact&theme=dracula&hide_border=false" />
+</div>
+
+<h2>🛠️ Languages & Tools</h2>
+
+<!-- Frontend -->
+<h3>🎨 Frontend</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+</div>
+
+<!-- Backend -->
+<h3>🧩 Backend</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+</div>
+
+<!-- Database -->
+<h3>🗄️ Database</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+</div>
+
+<!-- Tools -->
+<h3>⚙️ Tools</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rifatsamjid/rifatsamjid/output/snake.svg" alt="Snake animation" />
+</div>
