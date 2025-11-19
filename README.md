@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rifat</h1>
-<!-- <h3 align="center">A passionate Frontend Developer from Bangladesh</h3> -->
+<h3>A passionate Frontend Developer from Bangladesh</h3>
+<div align="center">
+  <img src="https://i.ibb.co/pr3Y1SWX/RIFAT-SAMJID-1.png" alt="Rifat Samjid Banner" width="100%" />
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -45,10 +49,21 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div>
+<div align="center">
+  <!-- Total GitHub Stats -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rifatsamjid&show_icons=true&theme=dracula&hide_border=false" />
+  
+  <!-- Top Languages -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatsamjid&layout=compact&theme=dracula&hide_border=false" />
 </div>
+
+<h3 align="center">🔥 My Stats :</h3>
+
+<div align="center">
+  <!-- GitHub Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=rifatsamjid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
+
 
 <h2>🛠️ Languages & Tools</h2>
 
@@ -90,7 +105,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rifatsamjid/rifatsamjid/output/snake.svg" alt="Snake animation" />
-</div>
